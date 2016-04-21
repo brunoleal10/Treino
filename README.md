@@ -1,4 +1,4 @@
 # Treino
-#DCS - Desenvolvimento de Software#
+#DCS - Desenvolvimento de Sistema#
 ###Versão###
 ***1.0***
